@@ -1,7 +1,7 @@
 One to one mapping
 
 
-first create table 
+1 .first create table 
 
 
 CREATE TABLE `book_type` (
@@ -25,7 +25,8 @@ CREATE TABLE `book_details` (
 ) ENGINE=InnoDB AUTO_INCREMENT=5 DEFAULT CHARSET=latin1;
 
 
-topic cover here is:
+2. Topic cover here is:
+
 annotation:  controller, service,repository, autowired ,pathvariable,onetoone mapping
 
 modelmap, modelandview, 
